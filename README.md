@@ -64,5 +64,12 @@ Jika Anda ingin menjalankan proyek ini di komputer lokal, ikuti langkah-langkah 
    ```
    Aplikasi sekarang dapat diakses melalui `http://localhost:8000.`
 -------------------------------------------------------------------
+## **📸 Gambar**
+
+**Storefront Publik:**
+![Tampilan Depan Toko](ss2.png)
+
+**Panel Admin:**
+![Tampilan Panel Admin](image.png)
   *By R*
    
